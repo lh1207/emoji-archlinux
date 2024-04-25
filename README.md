@@ -50,6 +50,12 @@ Insert in `fonts.conf`
 </fontconfig>
 ```
 
+## Finalize Installation
+Build font into cache files
+```bash
+$ fc-cache -f
+```
+
 ## Installed!
 
 Check emojis here!
